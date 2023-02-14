@@ -6,10 +6,11 @@
     'category': 'Mate',
     'summary': 'Hospital management system (Mate)',
     'description': """ Hospital management system """,
-    'depends': ['sales_team', 'payment', 'portal', 'utm'],
+    'depends': ['base'],
     'data': [],
     'demo': [],
     'installable': True,
     'auto_install': False,
     'assets': {},
+    'licence':'LGPL-3',
 }
